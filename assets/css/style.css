@@ -235,13 +235,13 @@ footer{
 .personal-info-item .key p,
 .personal-info-item .value p{
     margin: 0;
-    padding-top: 10px;
 }
 
 .personal-info-item .key{
     width: 30%;
     margin-right: 21px;
     vertical-align: top;
+    padding-top: 2px;
 }
 
 .personal-info-item .key p{
